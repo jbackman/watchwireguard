@@ -1,2 +1,3 @@
 # watchwireguard
-python tool for ensuring that wireguard client can connect to dynamic server
+
+Tool for ensuring wireguard can reconnect to a dynamic server and bring up the tunnel
